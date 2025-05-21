@@ -1,3 +1,11 @@
+
+.hero-section{
+  background-image: url("./assets/Tangazo_Improved.png");
+}
+
+
+
+
 @media (max-width: 600px) {
   .fit{
     width: 100%;
